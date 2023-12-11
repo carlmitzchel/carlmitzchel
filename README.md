@@ -1,6 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">i'm chy! a third year computer science student 🧑🏻‍💻</div>  
