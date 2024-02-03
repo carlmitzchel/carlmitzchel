@@ -7,12 +7,6 @@
 - 🔭 I’m currently working on [Nex.Tech's Frontend](https://github.com/SE-Nex-Tech/Nex.Tech)  
   
 
-- 🌱 I’m currently learning Next.JS  
-  
-
-- ⚡ Fun fact: I use the right shift   
-  
-
 <br/>  
 
 
