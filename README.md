@@ -1,11 +1,7 @@
 
   
 
-### <div align="center">i'm chy! a third year computer science student 🧑🏻‍💻</div>  
-  
-
-- 🔭 I’m currently working on [Nex.Tech's Frontend](https://github.com/SE-Nex-Tech/Nex.Tech)  
-  
+### <div align="center">i'm chy! a fourth year computer science student 🧑🏻‍💻</div>  
 
 <br/>  
 
