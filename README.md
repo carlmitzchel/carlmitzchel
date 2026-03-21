@@ -69,8 +69,6 @@ That’s what I’m here to do.
 - 📱 **Mobile & cross-platform apps**  
 - ⚙️ Systems with **real-world use, not just demos**
 
-> Built projects using React, Next.js, FastAPI, Supabase, Docker, and modern tooling :contentReference[oaicite:0]{index=0}
-
 ---
 
 ## 📫 Connect with Me
